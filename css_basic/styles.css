@@ -11,6 +11,9 @@ main {
     flex: auto; 
 }
 
+.logo {
+    font-size: 2rem; 
+    margin-right: 10px;
 
 article {
     flex: 2; 
